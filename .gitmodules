@@ -1,3 +1,6 @@
 [submodule "stk/googletest"]
 	path = stk/googletest
 	url = https://github.com/google/googletest.git
+[submodule "lst/googletest"]
+	path = lst/googletest
+	url = https://github.com/google/googletest.git
